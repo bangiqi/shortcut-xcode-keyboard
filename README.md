@@ -1,6 +1,6 @@
-# Shortcut Xcode Keyboard CheatSheet
+# CheatSheet Shortcut Keyboard in IDE Xcode
 
-CheatSheet shortcut keyboard in IDE XCode.
+CheatSheet shortcut keyboard in IDE XCode. Happy Type :grin:
 
 ### Hide/Show Debug Console
 
